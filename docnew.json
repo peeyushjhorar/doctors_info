@@ -3,91 +3,91 @@
         "name": "Dr Sardar",
         "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Bill_Gates.jpg",
         "degree": "MD",
-        "InYear": "10:30 PM",
-        "source": "Hindi,English,Kannada"
+        "available": "10:30 PM",
+        "lang": "Hindi,English,Kannada"
     },
     {
         "name": "Dr Carlos Slim",
         "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Carlos_Slim_Helu.jpg",
         "degree": "MD/MS",
-        "InYear": "11:30 PM",
-        "source": "Hindi,English,Kannada"
+        "available": "11:30 PM",
+        "lang": "Hindi,English,Kannada"
     },
     {
         "name": "Dr Warren Buffett",
                 "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/WarrenBuffett.jpg",
                 "degree": "MD",
-                "InYear": "12:30 PM",
-                "source": "Hindi,English,Kannada"
+                "available": "12:30 PM",
+                "lang": "Hindi,English,Kannada"
     },
     {
         "name": "Amancio Ortega",
                 "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/amancio_ortega.jpg",
                 "degree": "MD/MS",
-                "InYear": "9:30 PM",
-                "source": "Hindi,English,Kannada"
+                "available": "9:30 PM",
+                "lang": "Hindi,English,Kannada"
     },
     {
        "name": "Larry Ellison",
                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Larry_Elllison.jpg",
                "degree": "BDS",
-               "InYear": "10:30 PM",
-               "source": "Hindi,English,Kannada"
+               "available": "10:30 PM",
+               "lang": "Hindi,English,Kannada"
     },
     {
         "name": "Charles Koch",
                 "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/cgkochwide.jpg",
                 "degree": "MD/MS",
-                "InYear": "10:30 PM",
-                "source": "Hindi,English,Kannada"
+                "available": "10:30 PM",
+                "lang": "Hindi,English,Kannada"
     },
     {
         "name": "David Koch",
                 "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/David_Kochcrop2007.jpg",
                 "degree": "BDS",
-                "InYear": "10:30 PM",
-                "source": "Hindi,English,Kannada"
+                "available": "10:30 PM",
+                "lang": "Hindi,English,Kannada"
     },
     {
         "name": "Dr Christy Walton",
                 "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/christywalton.jpg",
                 "degree": "MDS ",
-                "InYear": "10:30 PM",
-                "source": "Hindi,English,Kannada"
+                "available": "10:30 PM",
+                "lang": "Hindi,English,Kannada"
     },
     {
         "name": "Dr Jim Walton",
                 "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Jim_Walton.jpg",
                 "degree": "MD",
-                "InYear": "11:30 PM",
-                "source": "Hindi,English,Kannada"
+                "available": "11:30 PM",
+                "lang": "Hindi,English,Kannada"
     },
     {
        "name": "Dr Liliane Bettencourt",
                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/lilianebettencourt.jpg",
                "degree": "MD",
-               "InYear": "12:30 PM",
-               "source": "Hindi,English,Kannada"
+               "available": "12:30 PM",
+               "lang": "Hindi,English,Kannada"
     },
     {
         "name": "Dr Carlos Slim & family",
                 "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/CarlosSlimfamily.jpg",
                 "degree": "MS",
-                "InYear": "8:30 PM",
-                "source": "Hindi,English,Kannada"
+                "available": "8:30 PM",
+                "lang": "Hindi,English,Kannada"
     },
     {
        "name": "Dr Bernard Arnault",
                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Bernard_Arnault.jpg",
                "degree": "MS",
-               "InYear": "10:30 PM",
-               "source": "Hindi,English,Kannada"
+               "available": "10:30 PM",
+               "lang": "Hindi,English,Kannada"
     },
     {
         "name": "Dr Prince Al-Waleed",
                 "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/PrinceAlwaleed.jpg",
                 "degree": "MS/MD",
-                "InYear": "10:30 PM",
-                "source": "Hindi,English,Kannada"
+                "available": "10:30 PM",
+                "lang": "Hindi,English,Kannada"
     }
     ]
