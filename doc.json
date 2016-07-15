@@ -1,0 +1,106 @@
+[
+{
+        "name": "SarDar Khan",
+        "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Bill_Gates.jpg",
+        "Specialization": "Physician",
+        "InYear": 2015,
+        "Languages": "Hindi,English,Kanada" ,
+		"Degree": "MD" 
+    },
+    {
+        "name": "Faizal Khan",
+        "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Carlos_Slim_Helu.jpg",
+        "Specialization": "Physician",
+        "InYear": 2015,
+        "Languages": "Hindi,English,Kanada" ,
+		"Degree": "MD" 
+    },
+    {
+        "name": "Babua",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/WarrenBuffett.jpg",
+                "Specialization": "Physician",
+                "InYear": 2015,
+                "Languages": "Hindi,English,Kanada" ,
+		        "Degree": "MD" 
+    },
+    {
+        "name": "Perpendicular",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/amancio_ortega.jpg",
+                "Specialization": "Physician",
+                "InYear": 2015,
+                "Languages": "Hindi,English,Kanada" ,
+		        "Degree": "MD" 
+    },
+    {
+       "name": "Definite",
+               "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Larry_Elllison.jpg",
+               "Degree": "MD" ,
+               "Specialization": "Physician",
+               "InYear": 2015,
+               "Languages": "Hindi,English,Kanada" ,
+    },
+    {
+        "name": "Nagma",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/cgkochwide.jpg",
+               "Specialization": "Physician",
+                "InYear": 2015,
+                "Languages": "Hindi,English,Kanada" ,
+		        "Degree": "MD" 
+    },
+    {
+        "name": "Ramadhir singh",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/David_Kochcrop2007.jpg",
+                "Specialization": "Physician",
+                "InYear": 2015,
+                "Languages": "Hindi,English,Kanada" ,
+		        "Degree": "MD" 
+    },
+    {
+        "name": "Fazlu",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/christywalton.jpg",
+                "Specialization": "Physician",
+                "InYear": 2015,
+                "Languages": "Hindi,English,Kanada" ,
+		        "Degree": "MD" 
+    },
+    {
+        "name": "Jim Walton",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Jim_Walton.jpg",
+               "Specialization": "Physician",
+                "InYear": 2015,
+                "Languages": "Hindi,English,Kanada" ,
+		        "Degree": "MD" 
+    },
+    {
+       "name": "Liliane Bettencourt",
+               "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/lilianebettencourt.jpg",
+               "Specialization": "Physician",
+                "InYear": 2015,
+                "Languages": "Hindi,English,Kanada" ,
+		        "Degree": "MD" 
+    },
+    {
+        "name": "Carlos Slim & family",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/CarlosSlimfamily.jpg",
+                "Specialization": "Physician",
+                "InYear": 2015,
+                "Languages": "Hindi,English,Kanada" ,
+		        "Degree": "MD" 
+    },
+    {
+       "name": "Bernard Arnault",
+               "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/Bernard_Arnault.jpg",
+               "Specialization": "Physician",
+                "InYear": 2015,
+                "Languages": "Hindi,English,Kanada" ,
+		        "Degree": "MD" 
+    },
+    {
+        "name": "Prince Al-Waleed",
+                "image": "https://raw.githubusercontent.com/mobilesiri/Android-Custom-Listview-Using-Volley/master/images/PrinceAlwaleed.jpg",
+                "Specialization": "Physician",
+                "InYear": 2015,
+                "Languages": "Hindi,English,Kanada" ,
+		        "Degree": "MD" 
+    }
+    ]
